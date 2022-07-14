@@ -36,3 +36,9 @@ HOWEVER, the refactored code completed its analysis of 2017 and 2018 MUCH more q
 
 
 ## Summary
+### The advantages & disadvantages of refactoring code
+While it may take more time to edit code. Efficiency will be returned to you tenfold. Simply put, less computational time & energy will be spent if a block of code is more efficient. In terms of this exercise and its VBA script, the improvements save a fraction of a second, which may seem insignificant at first. However in terms of relativity, it took the original script ***five times*** as long to run. If this code were applied to thousands of stocks performing over several decades, the difference could mean hours of time lost to processing time. 
+
+Kids, don't just write your code. 
+
+_Rewrite_ your code.
